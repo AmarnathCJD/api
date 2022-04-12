@@ -1,1 +1,1 @@
-web: bin/html
+web: html
