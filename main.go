@@ -1,6 +1,9 @@
 package main
 
-import "http"
+import (
+	"http"
+	"os"
+	"fmt"
 
 func main() {
 	http.HandleFunc("/ping", func (w http.ResponseWriter, r *http.Request) {
