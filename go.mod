@@ -1,4 +1,4 @@
-module html
+module main
 
 go 1.18
 
