@@ -1,1 +1,1 @@
-web: html
+web: main
